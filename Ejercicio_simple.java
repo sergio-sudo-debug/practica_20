@@ -4,6 +4,7 @@ public class Ejercicio_simple {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		system.out.printl("hola mundo");
 
 	}
 
